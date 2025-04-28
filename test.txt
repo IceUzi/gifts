@@ -1,3 +1,9 @@
-test 235 
-stet
-haha wow
+STARTOFTHEFILE
+hello
+
+test
+2
+3
+test
+
+ENDOFTHEFILE
